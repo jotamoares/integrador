@@ -119,6 +119,12 @@ h6 {
 
 }
 
+.btn-quiero{
+
+  border: #999999;
+  color: #f8f8f8;
+}
+
 .container-fluid {
   padding-left: 10%;
   padding-right: 8%;
@@ -168,12 +174,6 @@ h6 {
 .card {
   padding-bottom: 0px;
   margin-bottom: 0px;
-}
-
-.btn-outline-light {
-
-  font-size: small;
-
 }
 
 .btn-success {
