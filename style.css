@@ -20,7 +20,7 @@
 .navbar-nav .custom-color .nav-link {
   color: rgb(19, 155, 19);
   transition: color 0.3s ease;
-  
+
 }
 
 /* Cambiar a negritas en hover para "Comprar tickets" */
@@ -49,9 +49,8 @@
   width: 100%;
   height: 100%;
   z-index: -1;
-    /* Coloca esta caja detrás de los otros elementos */
-  background-size:auto
-
+  /* Coloca esta caja detrás de los otros elementos */
+  background-size: auto
 }
 
 .header-content {
@@ -113,12 +112,12 @@ h6 {
 }
 
 .btn {
-   border-radius: 3px;
+  border-radius: 3px;
 }
 
 .btn-quiero {
   color: #bbbbbb;
- }
+}
 
 .btn-quiero:hover {
   font-weight: bold;
@@ -198,7 +197,7 @@ h6 {
 .btn-success {
   background-color: #437943;
   border-color: #437943;
- }
+}
 
 .btn-success:hover {
   font-weight: bold;
@@ -233,7 +232,7 @@ h2 {
 }
 
 .btn-conoce:hover {
-font-weight: bold;
+  font-weight: bold;
 }
 
 .formulario {
@@ -290,7 +289,7 @@ font-weight: bold;
   size: 100%;
   align-items: center;
   margin-left: 0px;
-  border:none;
+  border: none;
 }
 
 .btn-success {
