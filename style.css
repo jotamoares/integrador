@@ -313,6 +313,7 @@ h2 {
   color: white;
   text-decoration: none;
   transition: color 0.3s;
+  width: 100%;
 }
 
 .row.fondo a:hover {
